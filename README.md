@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azee-mali
+- 👋 Hi, I’m @Azeem Ali
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on Unreal engine
